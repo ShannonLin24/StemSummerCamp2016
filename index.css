@@ -1,0 +1,29 @@
+ <style>
+    h1 {
+    font-family:inherit;
+    color:lightseagreen;
+    text-shadow:4px 2px 1px #000033;
+    font-size: 60px;
+ }
+        h2 {
+        color:midnightblue;
+        text-shadow:2px 2px 2px #adebeb;
+        } 
+        
+        h3 {
+        color:rebeccapurple;
+        text-shadow:2px 2px 2px #ffccff
+            
+        }
+        
+        h5  {
+        font-size:15px;
+        }
+        
+        img {
+            font-size: 20px; 
+        }
+    body {
+    
+}
+</style>
